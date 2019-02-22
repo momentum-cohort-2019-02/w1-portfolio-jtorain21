@@ -1,0 +1,65 @@
+.font {
+    font-family: sans-serif;
+}
+.header1 {
+    font-size: 500%;
+}
+.header2 {
+    font-size: 300%;
+}
+
+img {
+    max-width: 100%;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white
+}
+
+.fa-instagram {
+    background: #c32aa3;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.social_media {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+
+}
+
+.page_links {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.header {
+    border-radius: 35px;
+    background: lightgrey;
+}
+
+.Employment {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
